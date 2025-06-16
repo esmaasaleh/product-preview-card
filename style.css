@@ -101,7 +101,7 @@ container
 }
 
 /* for mobile screen */
-@media (max-width: 770px) {
+@media (max-width: 38.5em) {
     .container {
         width: 90%;
         height: 90%;
