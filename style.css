@@ -23,6 +23,11 @@ body {
     background-color: var(--Cream);
     height: 100vh;
     overflow: hidden;
+    font-family: "Montserrat";
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
 
 /* ===============
@@ -32,7 +37,6 @@ container
     width: 550px;
     height: 450px;
     background-color: var(--White);
-    margin: 100px auto;
     display: flex;
     justify-content: space-between;
 
@@ -59,7 +63,6 @@ container
     color: var(--Grey);
     font-size: 25px;
     letter-spacing: 6px;
-    font-family: "Montserrat";
     font-weight: 500;
 }
 
